@@ -62,11 +62,11 @@ ul, ol, dl
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+It is a streamlined way of adjusting sizing, spacing and making adjustments to componets of your webpage
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+box-sizing: xyzBox
 ```
